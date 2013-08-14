@@ -25,4 +25,6 @@ alias ls='ls -whF'
 
 alias afind='ack-grep -il'
 
-alias ngServer=ngServer.js
+alias mongo='mongo transformers'
+
+alias ngServer='ngServer.js'
